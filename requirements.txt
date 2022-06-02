@@ -29,7 +29,7 @@ git-remote-codecommit==1.13
 google-pasta==0.2.0
 grpcio==1.30.0
 h5py==2.10.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 ikp3db==1.4.1
 image==1.5.32
